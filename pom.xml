@@ -61,14 +61,6 @@
 </dependency>
     
 
-	<!-- https://mvnrepository.com/artifact/org.kie/kie-ci -->
-<dependency>
-    <groupId>org.kie</groupId>
-    <artifactId>kie-ci</artifactId>
-    <version>7.67.0.Final</version>
-</dependency>
-
-
   </dependencies>
   <build>
     <plugins>
